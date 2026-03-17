@@ -25,18 +25,18 @@ git clone https://github.com/NxtGenCodeBase/mcp-local-school-orchestrator.git
 cd school-mcp-agent-admin
 pip install -r requirements.txt
 
-## 🏗️ Project structure
+### 🏗️ Project structure
 
-school-mcp-agent-admin/
+school-mcp-agent-orchestrator/
 ├── .gitignore
-├── README.md
+├── README.md   
 ├── requirements.txt
 ├── database.py       # Mock Backend Data Layer
 ├── server.py         # MCP Server (The Tools)
-├── orchestrator.py   # MCP Client & LangGraph Logic
+├── orchestrator.py   # MCP Client,LangGraph Logic are combined inside app.py file
 └── app.py            # Streamlit Host Interface
 
-## 🏗️ How it works
+### 🏗️ How it works
 - Host (Streamlit) receives your question: "Generate a report for me."
 - Host passes this to the Orchestrator (LangGraph/Ollama) to reason.
 - The Orchestrator tells the Client (ClientSession): "I need to run the generate_student_report tool."
